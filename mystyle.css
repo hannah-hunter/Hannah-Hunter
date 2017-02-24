@@ -143,3 +143,4 @@ li a:hover:not(.active) {
 
 .clear-floated	  { clear: both; height: 1px; font-size: 1px; line-height: 1px; padding: 0; margin: 0; margin-top: 0px;}
 .c{text-align:center;}
+p{ margin: 20px;}
